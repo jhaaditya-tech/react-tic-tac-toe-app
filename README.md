@@ -1,1 +1,1 @@
-Tik Tac Toe using ReactJS
+Tic Tac Toe using ReactJS
