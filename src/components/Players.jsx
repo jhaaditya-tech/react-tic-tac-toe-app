@@ -12,7 +12,7 @@ export default function Player({initialName, symbol}){
     setPlayerName(event.target.value)
 
   }
-
+  
   let editablePlayerName=<span className="player-name">{playerName}</span>
 
 
